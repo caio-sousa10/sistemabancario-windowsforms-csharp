@@ -1,0 +1,146 @@
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Aula\Documents\SistemaBancario01 (1)\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Aula\source\repos\SistemaBancario01\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Aula\Downloads\SistemaBancario01\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Aula\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Aula\Documents\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.AssemblyReference.cache
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.Form_ATM.resources
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.GenerateResource.cache
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfoInputs.cache
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.AssemblyInfo.cs
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.csproj.CoreCompileInputs.cache
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\refint\SistemaBancario01.dll
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Caio Sousa\Downloads\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.exe
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.deps.json
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.runtimeconfig.json
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.dll
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\bin\Debug\net6.0-windows\SistemaBancario01.pdb
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\SistemaBancario01.genruntimeconfig.cache
+C:\Users\Caio Sousa\source\repos\SistemaBancario02\SistemaBancario01\obj\Debug\net6.0-windows\ref\SistemaBancario01.dll
